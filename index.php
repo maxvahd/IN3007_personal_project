@@ -17,7 +17,12 @@
             <a data-active="contact" href="index.php">Contact</a>
         </div>
     </nav>
-    <header></header>
+    <header>
+        <h1>Welcome</h1>
+        <p class="subtitle">
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex, odio maiores corrupti assumenda deleniti magnam ipsam quibusdam accusamus iusto rem error et reprehenderit ea quas dolorem ipsa quo voluptate maxime.
+        </p>
+    </header>
     <main></main>
     <footer></footer>
     <script src="js/script.js"></script>

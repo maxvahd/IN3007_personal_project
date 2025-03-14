@@ -44,3 +44,15 @@ nav a.active {
     color: bisque;
     border-radius: 3px;
 } 
+
+header{
+    padding: 40px 20px;
+    background-color: rgb(58, 72, 72);
+}
+
+header h1{}
+
+header .subtitle{
+    margin-top: 20px;
+    line-height: 30px;
+}
