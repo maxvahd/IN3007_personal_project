@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <title>Satrap</title>
 </head>
+
 <body>
     <nav>
         <div class="title">Satrap</div>
@@ -24,7 +26,10 @@
         </p>
     </header>
     <main></main>
-    <footer></footer>
+    <footer>
+        Our store's footer
+    </footer>
     <script src="js/script.js"></script>
 </body>
+
 </html>
