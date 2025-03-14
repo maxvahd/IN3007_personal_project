@@ -8,6 +8,12 @@
     <meta name="keywords" content="culture, history, polictics, books, iranian">
     <link rel="stylesheet" href="css/styles.css">
     <title>Satrap</title>
+    <style>
+        footer {
+            position: fixed;
+            bottom: 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -15,7 +21,9 @@
     <?php include "includes/header.php" ?>
 
     <main>
-        
+        <h2>
+            This is the contact page.
+        </h2>
     </main>
     <?php include "includes/footer.php" ?>
 
