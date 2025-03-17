@@ -15,7 +15,28 @@
     <?php include "includes/header.php" ?>
 
     <main>
-        
+        <div class="left">
+            <div class="section-title">Product Categories</div>
+            <a href="">Books</a>
+            <a href="">Games</a>
+        </div>
+        <div class="right">
+            <div class="section-title">Home Page</div>
+            <div class="product">
+                <div class="product-left">
+                    <img src="products/book1.avif" alt="">
+                </div>
+                <div class="product-right">
+                    <p class="title">
+                        <a href="">Iranian Book</a>
+                    </p>
+                    <p class="description">lorem ipsum.</p>
+                    <p class="value">
+                        &pound; 9.99
+                    </p>
+                </div>
+            </div>
+        </div>
     </main>
     <?php include "includes/footer.php" ?>
 

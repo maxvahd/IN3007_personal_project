@@ -58,6 +58,12 @@ header .subtitle {
     line-height: 30px;
 }
 
+main {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
 footer {
     background-color: dimgray;
     padding: 20px;
