@@ -87,6 +87,15 @@ main .left a{
 
 main .left a:hover{
     text-decoration: underline;
+}
+
+main .right{}
+
+main .right .product{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
     
 }
 
